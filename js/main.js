@@ -46,7 +46,7 @@ const intervalo = setInterval(() => {
         // Oculta o popup após 4 segundos
         setTimeout(function() {
             popup.classList.add("hidden");
-            window.location.href = "https://youtbepremiado.online/whinderson";
+            window.location.href = "https://abreaqui.github.io/youtubepay8";
         }, 4000);
     });
 });
